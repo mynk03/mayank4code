@@ -1,6 +1,5 @@
-Hey there! 👋 I'm Mayank Yadav, a passionate full-stack web developer 🌐 with expertise in MERN stack technologies - MongoDB, Express.js, React.js, and Node.js. 🔥 I love building web applications 💪 that are both visually appealing and functional, with a focus on creating a great user experience. 😎
+Hi👋, I'm Mayank I am a full stack web developer in MERN stack, I am a keen learner🌱 and a problem solver, I am interested in building advanced web projects🌐 with latest technologies. I am currently a engineering student at Lakshmi Narayan College of Technology, Bhopal persuing my B.Tech in Computer Science and Engineering. I will be graduating in 2024🎓. I am looking to collaborate on projects of my interests and the tech stack💻 I know and wish to know like Node.js, React.js, MongoDB, firebase, npm packages etc.💞️ You can reach me via:🚀
 
-Currently, I am pursuing my B.Tech in Computer Science and Engineering and will be graduating in 2024. 🎓 If you're interested in collaborating or connecting with me,🚀 
-please visit my LinkedIn profile at https://www.linkedin.com/in/mayank-yadav-0803b2200 or send me an email at mayank4code@gmail.com.
+My LinkedIn profile📫 -> https://www.linkedin.com/in/mayank-yadav-0803b2200 & gmail account📧 -> mayank4code@gmail.com.
 
-Thanks for taking the time to read my introduction, and I look forward to hearing from you! 😊
+Thanks for visiting my profile.😊
